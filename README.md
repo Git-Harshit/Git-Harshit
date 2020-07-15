@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **Git-Harshit/Git-Harshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Python Programmer, and Website Developer. I love to code, and be able to communicate my desires descriptively via programming languages. 
+To have a detailed insights on me, be sure to check [my homepage](https://git-harshit.github.io). 
