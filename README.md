@@ -15,5 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Python Programmer, and Website Developer. I love to code, and be able to communicate my desires descriptively via programming languages. 
-To have a detailed insights on me, be sure to check [my homepage](https://git-harshit.github.io). 
+Hello from Harshit Gupta (Git-Harshit)!
+
+I am a Python Programmer, and Website Developer. I love to code, and am able to communicate my desires from any code, descriptively via programming languages. 
+To have more detailed insights on me, be sure to check [my homepage](https://git-harshit.github.io). 
+
+As a developer and programmer, I am open to collaborate on open source projects that match my skillset, and I will be happy to contribute my bit towards improvements of programs out there.
+
+Please feel free to reach me out via LinkedIn:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshit-gupta-/)
