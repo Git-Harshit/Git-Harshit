@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello from Harshit Gupta (Git-Harshit)!
+Hello, from Harshit Gupta [(Git-Harshit)](https://github.com/Git-Harshit)!
 
-I am a Python Programmer, and Website Developer. I love to code, and am able to communicate my desires from any code, descriptively via programming languages. 
-To have more detailed insights on me, be sure to check [my homepage](https://git-harshit.github.io). 
+I am a Python Programmer, and Website Developer. I love to code, and am able to communicate my desires from any code, precisely and descriptively via programming languages. :computer:
 
-As a developer and programmer, I am open to collaborate on open source projects that match my skillset, and I will be happy to contribute my bit towards improvements of programs out there.
+As a developer and programmer, I am open to collaborate on open source projects and repositories that match my skillset, and I will be happy to contribute my bit towards improvements of programs and related files.
 
-Please feel free to reach me out via LinkedIn:
+To have detailed insights on me, be sure to check [my homepage](https://git-harshit.github.io). 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshit-gupta-/)
+**Feel free to reach out to me:**
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshitkumargupta/)
+
+... or [drop me a mail](mailto:hkg1412@gmail.com)!
