@@ -1,6 +1,7 @@
-### Hi there! 👋
+## Hi there! 👋
 
 <!--
+Original Content (suggested by GitHub)
 **Git-Harshit/Git-Harshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,9 +18,9 @@ Here are some ideas to get you started:
 
 Hello, from Harshit Gupta [(Git-Harshit)](https://github.com/Git-Harshit)!
 
-I am a Python Programmer, and Website Developer. I love to code, and am able to communicate my desires from any code, precisely and descriptively via programming languages. :computer:
+I am a Python Programmer, and Website Developer. I love to code, and I'm able to communicate my desires from any code, precisely and descriptively via programming languages. :computer:
 
-As a developer and programmer, I am open to collaborate on open source projects and repositories that match my skillset, and I will be happy to contribute my bit towards improvements of programs and related files.
+As a developer and programmer, I am open to collaborate on open source projects and repositories that match my skillset, and I will be happy to contribute my bit towards improvements of programs and related files. :sparkles:
 
 To have detailed insights on me, be sure to check [my homepage](https://git-harshit.github.io). 
 
@@ -28,3 +29,8 @@ To have detailed insights on me, be sure to check [my homepage](https://git-hars
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshitkumargupta/)
 
 ... or [drop me a mail](mailto:hkg1412@gmail.com)!
+
+### This README Visitors Count (By profile-counter.glitch.me):
+(added since 01st August 2021, so that's exactly when the counting started from)
+
+![Visitor Count](https://profile-counter.glitch.me/Git-Harshit/count.svg)
